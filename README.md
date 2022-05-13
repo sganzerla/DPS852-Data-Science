@@ -1,4 +1,4 @@
-# DPS852-Jupyter-Notebooks
+# DPS852-Data-Science
 
 ## Ambiente Recomendável
 

@@ -2,7 +2,7 @@
 
 O [Jupyter Notebook](https://jupyter.org/) é uma ferramenta para manipulação de dados obtidos das mais diversas fontes com a linguagem `Python`. Ele permite a geração de relatórios sendo escritos em blocos `Markdown` e em `Python` no mesmo documento.
 
-Pode ser rodar tanto localmente quanto em um ambiente na nuvem gratuito.
+Pode rodar tanto localmente quanto em um ambiente na nuvem gratuito.
 
 
 ## Ambiente Recomendável

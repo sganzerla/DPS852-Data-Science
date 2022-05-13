@@ -14,7 +14,7 @@ No ambiente virtual do Google [Colab](https://colab.research.google.com/) é pos
 
 No ambiente local é necessário configurar algumas coisas. 
 
-Instalar kit `[Anaconda](https://docs.anaconda.com/anaconda/install/windows/)` que ele já instala e configura o `Jupyter` e o `Python` 3.9 ou superior.
+Instalar kit [Anaconda](https://docs.anaconda.com/anaconda/install/windows/) que ele já instala e configura o `Jupyter` e o `Python` 3.9 ou superior.
 
 Instalar também o `IPython` para reconhecer arquivos `.ipynb` como notebooks.
 

@@ -20,7 +20,7 @@ Ou rodar o Jupyter Notebook [localhost](http://localhost:8888) dentro da pasta d
 
 ## Exercícios Resolvidos
 
-* [Trabalho 1](T1/TRABALHO/)
+* [Trabalho 1](T1/TRABALHO/trabalho pratico 1.ipynb)
 
 ## Fonte
 

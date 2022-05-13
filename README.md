@@ -23,7 +23,7 @@ Ou no ambiente virtual do Google [Colab](https://colab.research.google.com/).
 
 ## Exercícios Resolvidos
 
-* [Trabalho 1](T1/TRABALHO/trabalho pratico 1.ipynb)
+* [Trabalho 1](T1/TRABALHO/)
 
 ## Fonte
 

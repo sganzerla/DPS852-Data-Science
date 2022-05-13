@@ -7,7 +7,7 @@ Pode rodar tanto localmente quanto em um ambiente na nuvem gratuito.
 
 ## Ambiente Recomendável
 
-Anaconda já instala e configura o [Jupyter Notebook](https://jupyter.org/) e o Python 3.9 ou superior.
+Anaconda já instala e configura o `Jupyter` e o `Python` 3.9 ou superior.
 
 * [Ambiente Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
 
@@ -15,7 +15,7 @@ Instalar o IPython para reconhecer arquivos `.ipynb` como notebooks.
 
     pip install ipython
 
-Rodar o Jupyter Notebook [localhost](http://localhost:8888) dentro da pasta do arquivo `.ipynb`
+Rodar o Jupyter Notebook localmente na porta 8888, executando o comando dentro da pasta do arquivo `.ipynb`
 
     jupyter notebook
     

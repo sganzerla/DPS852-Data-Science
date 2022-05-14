@@ -27,7 +27,8 @@ Rodar o Jupyter Notebook localmente na porta 8888, executando o comando dentro d
 
 ## Exercícios Resolvidos
 
-* [Trabalho 1](T1/TRABALHO/)
+* [Trabalho 1](T1/TRABALHO/) - Referente dados pluviométricos de Santa Maria
+* [Exercicio 1](T2-pre/EXERCICIO/) - Referente aos países da América Latina
 
 ## Fonte
 

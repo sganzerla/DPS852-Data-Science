@@ -2,6 +2,12 @@
 
 O [Jupyter Notebook](https://jupyter.org/) é uma ferramenta para manipulação de dados obtidos das mais diversas fontes com a linguagem `Python`. Ele permite a geração de relatórios sendo escritos em blocos `Markdown` e em `Python` no mesmo documento.
 
+## Exercícios Resolvidos
+
+* [Trabalho 1](T1/TRABALHO/trabalho1.ipynb) - Referente dados pluviométricos de Santa Maria
+* [Exercicio 1](T2-pre/EXERCICIO/exercicio.ipynb) - Referente aos países da América Latina
+* [Trabalho 2](T2/TRABALHO/README.md) -  Referente aos países do Conesul
+
 ## Como rodar
 
 Pode rodar tanto localmente quanto em um ambiente na nuvem gratuito.
@@ -23,11 +29,6 @@ Instalar também o `IPython` para reconhecer arquivos `.ipynb` como notebooks.
 Rodar o Jupyter Notebook localmente na porta 8888, executando o comando dentro da pasta do arquivo `.ipynb`
 
     jupyter notebook
-
-## Exercícios Resolvidos
-
-* [Trabalho 1](T1/TRABALHO/trabalho1.ipynb) - Referente dados pluviométricos de Santa Maria
-* [Exercicio 1](T2-pre/EXERCICIO/exercicio.ipynb) - Referente aos países da América Latina
 
 ## Fonte
 

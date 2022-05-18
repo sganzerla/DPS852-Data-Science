@@ -2,11 +2,15 @@
 
 O [Jupyter Notebook](https://jupyter.org/) é uma ferramenta para manipulação de dados obtidos das mais diversas fontes com a linguagem `Python`. Ele permite a geração de relatórios sendo escritos em blocos `Markdown` e em `Python` no mesmo documento.
 
-## Exercícios Resolvidos
+## Desafios utilizando Pandas - Ciência de Dados
 
 * [Trabalho 1](T1/TRABALHO/trabalho1.ipynb) - Referente dados pluviométricos de Santa Maria
 * [Exercicio 1](T2-pre/EXERCICIO/exercicio.ipynb) - Referente aos países da América Latina
 * [Trabalho 2](T2/TRABALHO/README.md) -  Referente aos países do Conesul
+
+## Desafios utilizando SciKit-Learn - Machine Learning
+
+* [Tutorial 1](M1/README.md) - Referente dados de câncer de mama
 
 ## Como rodar
 

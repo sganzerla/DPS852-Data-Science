@@ -4,8 +4,8 @@ O [Jupyter Notebook](https://jupyter.org/) é uma ferramenta para manipulação 
 
 ## Exercícios Resolvidos
 
-* [Trabalho 1](T1/TRABALHO/trabalho1.ipynb) - Referente dados pluviométricos de Santa Maria
-* [Exercicio 1](T2-pre/EXERCICIO/exercicio.ipynb) - Referente aos países da América Latina
+* [Trabalho 1](T1/trabalho1.ipynb) - Referente dados pluviométricos de Santa Maria
+* [Exercicio 1](T2-pre/exercicio.ipynb) - Referente aos países da América Latina
 * [Trabalho 2](T2/TRABALHO/t2.ipynb) -  Referente aos países do Conesul
 
 ## Como rodar

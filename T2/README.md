@@ -1,3 +1,3 @@
 # T2
 
-Volte mais tarde, página e trabalho em andamento. kkk
+[Trabalho 2](t2.ipynb)

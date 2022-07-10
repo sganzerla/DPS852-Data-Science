@@ -7,6 +7,7 @@ O [Jupyter Notebook](https://jupyter.org/) é uma ferramenta para manipulação 
 * [Trabalho 1](T1/TRABALHO/trabalho1.ipynb) - Referente dados pluviométricos de Santa Maria
 * [Exercicio 1](T2-pre/EXERCICIO/exercicio.ipynb) - Referente aos países da América Latina
 * [Trabalho 2](T2/t2.ipynb) -  Referente aos países do Conesul
+* [Trabalho 3](T3/t3.ipynb) -  Indicadores variados dos países sul americanos (PIB, mortalidade, longevidade, inflação)
 
 ## Desafios utilizando SciKit-Learn - Machine Learning
 

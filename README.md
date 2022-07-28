@@ -5,9 +5,12 @@ O [Jupyter Notebook](https://jupyter.org/) é uma ferramenta para manipulação 
 ## Desafios utilizando Pandas - Ciência de Dados
 
 * [Trabalho 1](T1/TRABALHO/trabalho1.ipynb) - Referente dados pluviométricos de Santa Maria
+  * [Questionário 1](T1/QUEST/readme.md)
 * [Exercicio 1](T2-pre/EXERCICIO/exercicio.ipynb) - Referente aos países da América Latina
 * [Trabalho 2](T2/t2.ipynb) -  Referente aos países do Conesul
+  * [Questionário 2](T2/QUEST/T1.ipynb)
 * [Trabalho 3](T3/t3.ipynb) -  Indicadores variados dos países sul americanos (PIB, mortalidade, longevidade, inflação)
+* [Trabalho 4](T4/readme.md) -  Manipulação de SQLite convertendo para dataframes Pandas)
 
 ## Desafios utilizando SciKit-Learn - Machine Learning
 

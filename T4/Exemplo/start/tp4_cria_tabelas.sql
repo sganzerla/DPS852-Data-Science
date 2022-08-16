@@ -1,0 +1,24 @@
+
+CREATE TABLE paises (
+	pais_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+	nome_curto text NOT NULL,
+	nome_longo text NOT NULL,
+	regiao text NOT NULL
+);
+
+
+CREATE TABLE indicadores (
+	indicador_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+	codigo text NOT NULL,
+	nome text NOT NULL
+);
+
+CREATE TABLE dados (
+	dado_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+	ano INTEGER NOT NULL,
+	valor REAL NOT NULL,
+	pais_id INTEGER NOT NULL,
+	indicador_id INTEGER NOT NULL,
+	FOREIGN KEY (pais_id) REFERENCES paises (pais_id) ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (indicador_id) REFERENCES indicadores (indicador_id) ON DELETE CASCADE ON UPDATE CASCADE
+);

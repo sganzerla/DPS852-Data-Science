@@ -12,7 +12,7 @@ O [Jupyter Notebook](https://jupyter.org/) é uma ferramenta para manipulação 
 * [Trabalho 3](T3/t3.ipynb) -  Indicadores variados dos países sul americanos (PIB, mortalidade, longevidade, inflação)
   * [Questionário 3-1](T3/QUEST/t1.ipynb)
   * [Questionário 3-2](T3/QUEST/t2.ipynb)
-* [Trabalho 4](T4/t1.ipynb) -  Manipulação de SQLite convertendo para dataframes Pandas)
+* [Trabalho 4](T4/readme.md) -  Manipulação de SQLite convertendo para dataframes Pandas)
 
 ## Desafios utilizando SciKit-Learn - Machine Learning
 
